@@ -1,2 +1,2 @@
 # DDK_QRCodeTest
-It speed up the scanning of Qr-code 
+It speeds up the scanning of Qr-code.
